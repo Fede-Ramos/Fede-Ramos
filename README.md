@@ -3,8 +3,20 @@
 
 Hola! Me llamo Fede, soy FullStack Developer y he desarrollado proyectos 
 tanto de manera individual como grupal utilizando metodologías ágiles 
-y aplicando las siguientes tecnologías: Javascript, Node.js, React - Redux,
-CSS, HTML, Express.js, Sequealize, Postman, PostgreSQL, Git, GitHub, NPM.
+y aplicando las siguientes tecnologías: 
+
+*Javascript 
+*Node.js 
+*React - Redux
+*CSS
+*HTML 
+*Express.js
+*Sequealize
+*Postman
+*PostgreSQL
+*Git
+*GitHub
+*NPM
 
 La motivación es mi motor para lograr todo lo que me proponga, 
 desde que descubrí el mundo IT me dije esto es lo que quiero para mí,
@@ -17,4 +29,4 @@ y me adapto fácilmente a los cambios que se presentan.
 
 Interesados en conocerme? Contáctenme!
 Mail: federicokm0@gmail.com
-LinkedIn: fede-ramos-fullstack
+LinkedIn: Federico Ramos
