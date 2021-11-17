@@ -17,4 +17,4 @@ y me adapto fácilmente a los cambios que se presentan.
 
 Interesados en conocerme? Contáctenme!
 Mail: federicokm0@gmail.com
-LinkedIn: Federico Ramos
+LinkedIn: fede-ramos-fullstack
