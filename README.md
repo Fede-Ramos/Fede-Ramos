@@ -1,4 +1,5 @@
-![Code-Style---SDOS](https://user-images.githubusercontent.com/87664281/142295236-ffa641eb-c863-442e-b2b7-129b70c4c5e3.png)
+
+![1_XthWUtD_NU-VJ7ESA2qX3A](https://user-images.githubusercontent.com/87664281/142295451-20a0ffa9-02e3-4860-8027-919cfed9ed6b.jpeg)
 
 Hola! Me llamo Fede, soy FullStack Developer y he desarrollado proyectos 
 tanto de manera individual como grupal utilizando metodologías ágiles 
