@@ -35,12 +35,6 @@ y me adapto fácilmente a los cambios que se presentan.
 
 <br/>
 
-<a href="https://github.com/Fede-Ramos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Interesados en conocerme? Contáctenme! </h3>
 
 <p align="center">
