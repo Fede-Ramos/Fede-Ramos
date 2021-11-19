@@ -1,7 +1,6 @@
-
 ![1_XthWUtD_NU-VJ7ESA2qX3A](https://user-images.githubusercontent.com/87664281/142295451-20a0ffa9-02e3-4860-8027-919cfed9ed6b.jpeg)
 
-<h2> Hola! Soy Fede! </h2>
+<h2> Hola, soy Fede! </h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre Mi </h3>
 La motivación es mi motor para lograr todo lo que me proponga, 
