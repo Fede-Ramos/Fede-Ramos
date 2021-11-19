@@ -4,7 +4,6 @@
 <h2> Hola! Soy Fede! </h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre Mi </h3>
-Hola! Me llamo Fede, y soy FullStack Developer.
 La motivación es mi motor para lograr todo lo que me proponga, 
 desde que descubrí el mundo IT me dije esto es lo que quiero para mí,
 por eso dedico mi tiempo a expandir el conocimiento, aprendiendo y enseñando,
@@ -37,8 +36,7 @@ y me adapto fácilmente a los cambios que se presentan.
 <br/>
 
 <a href="https://github.com/Fede-Ramos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
 <br/>
