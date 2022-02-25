@@ -4,12 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre Mi </h3>
 La motivación es mi motor para lograr todo lo que me proponga, 
-desde que descubrí el mundo IT me dije esto es lo que quiero para mí,
-por eso dedico mi tiempo a expandir el conocimiento, aprendiendo y enseñando,
+dedico mi tiempo a expandir el conocimiento, aprendiendo y enseñando,
 a desarrollar mis habilidades duras y blandas y potenciar las relaciones interpersonales.
 Me considero una persona resolutiva y determinada, 
 eficiente al momento de gestionar las tareas y administrar los tiempos.
-Me destaco por ser organizado y puntual, aprendo de forma muy rápida 
+Me destaco por ser organizado y puntual, aprendo de forma ágil y autónoma 
 y me adapto fácilmente a los cambios que se presentan.
 
 
